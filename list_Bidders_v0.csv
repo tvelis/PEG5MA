@@ -1,0 +1,11 @@
+﻿cod,bidder,Type,pot_max,pot_min,periodo,tipo_contrato,tipo_combustible,bloque_ofertado,precio_potencia,precio_energia,oym,precio PMU
+1,Hidro1,Existente con inversiones adicionales,247,,P1,DCC,Hidro,Complementario,9,50,3,79.36
+2,Bunker1_,Existente sin inversiones adicionales,400,,P2,OCE,Bunker,Base,8.2,,12,92.03
+3,PV1_,Existente sin inversiones adicionales,100,,P3,EG,Solar,,,64,5.5,75.51
+4,Hidro2_,Futura,300,,P1,DCC,Hidro,Complementario,8.5,55,3.5,83.07
+5,Bunker2_,Futura,600,,P3,OCE,Gas Natural,Base,8.96,,4.5,110.89
+6,EOL1_,Futura,100,,P3,EG,Eólico,,,74,4.5,76.78
+7,Bio+Car1,Futura,160,,P3,OCE,Biomasa + Carbón,Base,7,4,0.2,76.91
+8,Bio+Bkr1,Existente sin inversiones adicionales,250,,P3,OCE,Biomasa + Búnker,Complementario,7,20,17,81.59
+9,Car+Coq1,Existente con inversiones adicionales,250,,P2,OCE,Carbón-Coque de Petróleo,Base,8,,12,113.38
+10,Geo1,Futura,300,,P2,DCC,Geotérmica,Complementario,2,20,3.6,26.68

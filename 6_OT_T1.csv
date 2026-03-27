@@ -1,0 +1,3 @@
+﻿Tabla 1,x,x,x,x,x,x,x,x,x,x
+period,genplant,potgaranmax,potgaranmin,contractype,typetech,fuel,blockbidded,distancefuel,genplantname,fuelchange
+P3,EOL1_6,100,50,EG,Recurso Renovable,Eólico,0,0,EOL1_,No aplica

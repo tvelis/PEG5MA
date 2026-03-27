@@ -1,0 +1,3 @@
+﻿Tabla 1,x,x,x,x,x,x,x,x,x,x
+period,genplant,potgaranmax,potgaranmin,contractype,typetech,fuel,blockbidded,distancefuel,genplantname,fuelchange
+P2,Bunker1_2,400,200,OCE,Recurso No Renovable,Bunker,Base,0,Bunker1_,No aplica
