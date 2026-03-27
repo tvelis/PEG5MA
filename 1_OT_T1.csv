@@ -1,0 +1,3 @@
+﻿Tabla 1,x,x,x,x,x,x,x,x,x,x
+period,genplant,potgaranmax,potgaranmin,contractype,typetech,fuel,blockbidded,distancefuel,genplantname,fuelchange
+P1,Hidro11,247,0,DCC,Recurso Renovable,Hidro,Complementario,0,Hidro1,No aplica

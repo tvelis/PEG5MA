@@ -1,0 +1,10 @@
+﻿mechanism_period,Type,power_requirement
+PM1,Base,500
+PM2,Base,600
+PM3,Base,700
+PM1,complementary,500
+PM2,complementary,700
+PM3,complementary,700
+PM1,installed,150
+PM2,installed,150
+PM3,installed,150

@@ -1,0 +1,11 @@
+cod,bidder,Tipo,preciomonomico,1
+1,Hidro1,Existente con inversiones adicionales,79.36,1
+2,Bunker1_,Existente sin inversiones adicionales,92.03,1
+3,PV1_,Existente sin inversiones adicionales,75.51,1
+4,Hidro2_,Futura,83.07,1
+5,Bunker2_,Futura,110.89,1
+6,EOL1_,Futura,76.78,1
+7,Bio+Car1,Futura,76.91,1
+8,Bio+Bkr1,Existente sin inversiones adicionales,81.59,1
+9,Car+Coq1,Existente con inversiones adicionales,113.38,1
+10,Geo1,Futura,26.68,1
